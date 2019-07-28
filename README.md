@@ -1,7 +1,7 @@
 # 포토프레임
 
 ## 실행화면
-![](photoframe.gif)
+<img src="https://github.com/kiljh-me/photoframe/blob/master/photoframe.gif" width="300" height="600">
 
 ## 2019.06.13 16:52
 ![](11-1.png)
